@@ -18,16 +18,5 @@
     <ClCompile Include="DS02.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="SocialNetwork.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="SocialNetwork.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="users.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>
